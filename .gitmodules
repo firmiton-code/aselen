@@ -1,0 +1,6 @@
+[submodule "Necklace Firmware/lib/Firebase"]
+	path = Necklace Firmware/lib/Firebase
+	url = https://github.com/mobizt/Firebase-ESP-Client.git
+[submodule "Inhaler Firmware/lib/Firebase"]
+	path = Inhaler Firmware/lib/Firebase
+	url = https://github.com/mobizt/Firebase-ESP-Client.git

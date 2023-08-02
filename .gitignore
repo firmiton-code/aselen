@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# PlatformIO
+Inhaler Firmware/.pio
+Inhaler Firmware/.vscode
+Inhaler Firmware/test
+Inhaler Firmware/.gitignore
+Necklace Firmware/.pio
+Necklace Firmware/.vscode
+Necklace Firmware/test
+Necklace Firmware/.gitignore
