@@ -4,3 +4,21 @@
 [submodule "Inhaler Firmware/lib/Firebase"]
 	path = Inhaler Firmware/lib/Firebase
 	url = https://github.com/mobizt/Firebase-ESP-Client.git
+[submodule "Inhaler Firmware/lib/Adafruit_MPU6050"]
+	path = Inhaler Firmware/lib/Adafruit_MPU6050
+	url = https://github.com/adafruit/Adafruit_MPU6050
+[submodule "Inhaler Firmware/lib/ESPAsyncTCP"]
+	path = Inhaler Firmware/lib/ESPAsyncTCP
+	url = https://github.com/me-no-dev/ESPAsyncTCP
+[submodule "Inhaler Firmware/lib/ESPAsyncWebServer"]
+	path = Inhaler Firmware/lib/ESPAsyncWebServer
+	url = https://github.com/me-no-dev/ESPAsyncWebServer
+[submodule "Inhaler Firmware/lib/Preferences"]
+	path = Inhaler Firmware/lib/Preferences
+	url = https://github.com/vshymanskyy/Preferences
+[submodule "Inhaler Firmware/lib/Adafruit_BusIO"]
+	path = Inhaler Firmware/lib/Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO
+[submodule "Inhaler Firmware/lib/Adafruit_Unified_Sensor_Driver"]
+	path = Inhaler Firmware/lib/Adafruit_Unified_Sensor_Driver
+	url = https://github.com/adafruit/Adafruit_Sensor
