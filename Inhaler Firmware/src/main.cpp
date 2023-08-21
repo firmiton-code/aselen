@@ -1,20 +1,15 @@
 #include <Arduino.h>
-#include <ESP8266WiFi.h>
-#include <Firebase_ESP_Client.h>
-
-// put function declarations here:
-int myFunction(int, int);
+#include <ArduinoOTA.h>
+#include "network/network.h"
+#include "device_config.h"
+#include "sensor/battery.h"
+#include "sensor/mpu6050.h"
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  Serial.begin(115200);
+  net.begin();
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
 }
