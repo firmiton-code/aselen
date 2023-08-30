@@ -5,7 +5,8 @@
 #include <ESP8266WiFi.h>
 #include <string.h>
 #include <Firebase_ESP_Client.h>
-#include <DNSServer.h>
+#include "DNSServer.h"
+#include <WiFiUdp.h>
 #include <ESPAsyncTCP.h>
 #include "ESPAsyncWebServer.h"
 #include "credentials.h"
