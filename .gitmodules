@@ -22,3 +22,21 @@
 [submodule "Inhaler Firmware/lib/WebSerial"]
 	path = Inhaler Firmware/lib/WebSerial
 	url = https://github.com/ayushsharma82/WebSerial.git
+[submodule "Necklace/lib/TFT_eSPI"]
+	path = Necklace/lib/TFT_eSPI
+	url = https://github.com/Bodmer/TFT_eSPI.git
+[submodule "Necklace/lib/ESPAsyncWebServer"]
+	path = Necklace/lib/ESPAsyncWebServer
+	url = https://github.com/me-no-dev/ESPAsyncWebServer.git
+[submodule "Necklace/lib/AsyncTCP"]
+	path = Necklace/lib/AsyncTCP
+	url = https://github.com/me-no-dev/AsyncTCP.git
+[submodule "Necklace/lib/SCD40"]
+	path = Necklace/lib/SCD40
+	url = https://github.com/sparkfun/SparkFun_SCD4x_Arduino_Library.git
+[submodule "Necklace/lib/Firebase"]
+	path = Necklace/lib/Firebase
+	url = https://github.com/mobizt/Firebase-ESP32.git
+[submodule "Necklace/lib/NTPClient"]
+	path = Necklace/lib/NTPClient
+	url = https://github.com/aliffathoni/NTPClient.git
