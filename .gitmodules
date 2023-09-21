@@ -1,6 +1,3 @@
-[submodule "Necklace Firmware/lib/Firebase"]
-	path = Necklace Firmware/lib/Firebase
-	url = https://github.com/mobizt/Firebase-ESP-Client.git
 [submodule "Inhaler Firmware/lib/Firebase"]
 	path = Inhaler Firmware/lib/Firebase
 	url = https://github.com/mobizt/Firebase-ESP-Client.git
@@ -22,12 +19,6 @@
 [submodule "Inhaler Firmware/lib/Adafruit_Unified_Sensor_Driver"]
 	path = Inhaler Firmware/lib/Adafruit_Unified_Sensor_Driver
 	url = https://github.com/adafruit/Adafruit_Sensor
-[submodule "Necklace Firmware/lib/TFT_eSPI"]
-	path = Necklace Firmware/lib/TFT_eSPI
-	url = https://github.com/Bodmer/TFT_eSPI
-[submodule "Necklace Firmware/lib/Adafruit_MLX96014"]
-	path = Necklace Firmware/lib/Adafruit_MLX96014
-	url = https://github.com/adafruit/Adafruit-MLX90614-Library.git
 [submodule "Inhaler Firmware/lib/WebSerial"]
 	path = Inhaler Firmware/lib/WebSerial
 	url = https://github.com/ayushsharma82/WebSerial.git
